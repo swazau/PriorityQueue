@@ -4,7 +4,6 @@
 int main() {
     Queue<int> test;
 
-
     for (int i = 20; i > 9; i--) {
         test.enqueue(i);
     }
